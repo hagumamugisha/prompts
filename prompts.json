@@ -1,82 +1,44 @@
 [
     {
         "language": "English",
-        "prompt": "You are an English teacher. Indicate the grammatical errors and why they are wrong in the following sentence: \"{selectedText}\"."
+        "prompt": "Translate the following selected word or phrase from English to the language you are assistant of: \"{selectedText}\"."
     },
     {
         "language": "Spanish",
-        "prompt": "Eres un profesor de español. Indica los errores gramaticales y por qué están mal en la siguiente oración: \"{selectedText}\"."
+        "prompt": "Traduce la siguiente palabra o frase seleccionada del inglés al idioma del que eres asistente: \"{selectedText}\"."
     },
     {
         "language": "Portuguese",
-        "prompt": "Você é um professor de português. Indique os erros gramaticais e por que estão errados na seguinte frase: \"{selectedText}\"."
+        "prompt": "Traduza a seguinte palavra ou frase selecionada do inglês para o idioma do qual você é assistente: \"{selectedText}\"."
     },
     {
         "language": "French",
-        "prompt": "Vous êtes professeur de français. Indiquez les erreurs grammaticales et pourquoi elles sont fausses dans la phrase suivante: \"{selectedText}\"."
+        "prompt": "Traduisez le mot ou la phrase sélectionné(e) suivant(e) de l'anglais vers la langue dont vous êtes assistant(e) : \"{selectedText}\"."
     },
     {
         "language": "German",
-        "prompt": "Sie sind Deutschlehrer. Geben Sie die grammatikalischen Fehler an und warum sie falsch sind im folgenden Satz: \"{selectedText}\"."
+        "prompt": "Übersetzen Sie das folgende ausgewählte Wort oder den folgenden Satz aus dem Englischen in die Sprache, in der Sie assistieren: \"{selectedText}\"."
     },
     {
         "language": "Italian",
-        "prompt": "Sei un insegnante di italiano. Indica gli errori grammaticali e perché sono sbagliati nella seguente frase: \"{selectedText}\"."
+        "prompt": "Traduci la seguente parola o frase selezionata dall'inglese alla lingua di cui sei assistente: \"{selectedText}\"."
     },
     {
         "language": "Chinese",
-        "prompt": "你是一位中文老师。指出以下句子中的语法错误并解释为什么它们是错误的: \"{selectedText}\"."
+        "prompt": "将以下选定的单词或短语从英语翻译成您所辅助的语言: \"{selectedText}\"."
     },
     {
         "language": "Japanese",
-        "prompt": "あなたは日本語の先生です。次の文の文法的な誤りと、それがなぜ誤りであるかを指摘してください: \"{selectedText}\"."
+        "prompt": "次の選択された単語またはフレーズを英語からあなたが支援している言語に翻訳してください: \"{selectedText}\"."
     },
     {
         "language": "Russian",
-        "prompt": "Вы учитель русского языка. Укажите грамматические ошибки и почему они ошибочны в следующем предложении: \"{selectedText}\"."
+        "prompt": "Переведите следующее выбранное слово или фразу с английского на язык, на котором вы помогаете: \"{selectedText}\"."
     },
     {
         "language": "Arabic",
-        "prompt": "أنت معلم لغة عربية. حدد الأخطاء النحوية ولماذا هي خاطئة في الجملة التالية: \"{selectedText}\"."
+        "prompt": "ترجم الكلمة أو العبارة المحددة التالية من الإنجليزية إلى اللغة التي تساعد فيها: \"{selectedText}\"."
     },
     {
         "language": "Korean",
-        "prompt": "당신은 한국어 교사입니다. 다음 문장에서 문법 오류와 그 이유를 지적하십시오: \"{selectedText}\"."
-    },
-    {
-        "language": "Hindi",
-        "prompt": "आप हिंदी के शिक्षक हैं। निम्नलिखित वाक्य में व्याकरण संबंधी त्रुटियों और उनके गलत होने का कारण बताएं: \"{selectedText}\"."
-    },
-    {
-        "language": "Turkish",
-        "prompt": "Türkçe öğretmenisiniz. Aşağıdaki cümledeki dilbilgisi hatalarını ve neden yanlış olduklarını belirtiniz: \"{selectedText}\"."
-    },
-    {
-        "language": "Dutch",
-        "prompt": "U bent een Nederlandse leraar. Geef de grammaticale fouten en waarom ze fout zijn in de volgende zin: \"{selectedText}\"."
-    },
-    {
-        "language": "Greek",
-        "prompt": "Είστε καθηγητής ελληνικών. Υποδείξτε τα γραμματικά λάθη και γιατί είναι λάθος στην ακόλουθη πρόταση: \"{selectedText}\"."
-    },
-    {
-        "language": "Swedish",
-        "prompt": "Du är en svensklärare. Ange grammatiska fel och varför de är fel i följande mening: \"{selectedText}\"."
-    },
-    {
-        "language": "Polish",
-        "prompt": "Jesteś nauczycielem języka polskiego. Wskaż błędy gramatyczne i dlaczego są one błędne w następującym zdaniu: \"{selectedText}\"."
-    },
-    {
-        "language": "Vietnamese",
-        "prompt": "Bạn là giáo viên tiếng Việt. Chỉ ra lỗi ngữ pháp và lý do chúng sai trong câu sau: \"{selectedText}\"."
-    },
-    {
-        "language": "Thai",
-        "prompt": "คุณเป็นครูสอนภาษาไทย ระบุข้อผิดพลาดทางไวยากรณ์และเหตุผลที่พวกเขาผิดในประโยคต่อไปนี้: \"{selectedText}\"."
-    },
-    {
-        "language": "Hebrew",
-        "prompt": "אתה מורה לעברית. ציין את השגיאות הדקדוקיות ולמה הן שגויות במשפט הבא: \"{selectedText}\"."
-    }
-]
+        "prompt": "다음 선택된 단어 또는 구문을 영어에서 당신이 지원하는 언어로 번역하세
